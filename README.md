@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Utsavcr77/DSA/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Utsavcr77/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Utsavcr77/DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/Utsavcr77/DSA/tree/master/0881-boats-to-save-people) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utsavcr77/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Math
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Utsavcr77/DSA/tree/master/0189-rotate-array) |
+| [0881-boats-to-save-people](https://github.com/Utsavcr77/DSA/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
 | ------- |
@@ -34,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Utsavcr77/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Utsavcr77/DSA/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Utsavcr77/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Utsavcr77/DSA/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Utsavcr77/DSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Utsavcr77/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
